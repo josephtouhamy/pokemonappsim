@@ -1,0 +1,5 @@
+pokemon-battle-simulator/
+├── pokemon_battle_gui.py
+├── requirements.txt
+├── README.md
+├── .gitignore      ← place it right here
